@@ -19,7 +19,7 @@
 <br>
 
 <div align=center>
-  	<img src="http://mazassumnida.wtf/api/generate_badge?boj=alswp006)](https://solved.ac/alswp006)"/>
+  	<img src="http://mazassumnida.wtf/api/generate_badge?boj=alswp006(https://solved.ac/alswp006)"/>
 </div>
 
 <div align=center>
@@ -27,5 +27,5 @@
 </div>
 
 <div align=center>
-  	<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=alswp006&layout=compact)](https://github.com/alswp006/github-readme-stats)"/>
+  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswp006&layout=compact(https://github.com/alswp006/github-readme-stats)"/>
 </div>
