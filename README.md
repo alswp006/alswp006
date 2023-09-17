@@ -19,13 +19,13 @@
 <br>
 
 <div align=center>
-  	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswp006)](https://solved.ac/alswp006)<br/>
+  	<img src="http://mazassumnida.wtf/api/generate_badge?boj=alswp006)](https://solved.ac/alswp006)"/>
 </div>
 
 <div align=center>
-  	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alswp006&show_icons=true&theme=radical)
+  	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&show_icons=true&theme=radical"/>
 </div>
 
 <div align=center>
-  	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alswp006&layout=compact)](https://github.com/alswp006/github-readme-stats)
+  	<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=alswp006&layout=compact)](https://github.com/alswp006/github-readme-stats)"/>
 </div>
