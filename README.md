@@ -25,7 +25,3 @@
 <div align=center>
   	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&show_icons=true&theme=radical"/>
 </div>
-
-<div align=center>
-  	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alswp006&layout=compact(https://github.com/alswp006/github-readme-stats)"/>
-</div>
