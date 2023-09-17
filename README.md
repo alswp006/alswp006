@@ -1,5 +1,5 @@
 <div align=center>
-  	![header](https://capsule-render.vercel.app/api?		type=rect&color=gradient&text=%20%20MINJE%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Welcome%20to%20my%20github&descAlign=60&descAlignY=50)
+  	<img src="https://capsule-render.vercel.app/api?		type=rect&color=gradient&text=%20%20MINJE%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Welcome%20to%20my%20github&descAlign=60&descAlignY=50"/>
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
