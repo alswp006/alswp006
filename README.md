@@ -19,7 +19,7 @@
 <br>
 
 <div align=center>
-  	<img src="http://mazassumnida.wtf/api/generate_badge?boj=alswp006(https://solved.ac/alswp006)"/>
+  	<img src="http://mazassumnida.wtf/api/generate_badge?boj=alswp006"/>
 </div>
 
 <div align=center>
