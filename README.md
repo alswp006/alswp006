@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20RECT%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Use%20%27textBg%27%20to%20highlight%20%27text%27&descAlign=60&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20MINJE%20%20&fontAlign=30&fontSize=30&textBg=true&desc=Welcome%20to%20my%20guthub&descAlign=60&descAlignY=50)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=alswp006)](https://solved.ac/alswp006)<br/>
 
