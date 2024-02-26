@@ -11,3 +11,7 @@
 <div align=center>
   	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&show_icons=true&theme=radical"/>
 </div>
+<br>
+<div align=center>
+	<a href = "https://velog.io/@alswp006/posts" target="_blank">👉 개발 블로그도 운영중입니다! 👈</a>
+</div>
