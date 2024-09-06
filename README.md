@@ -20,7 +20,7 @@
     <h2>진행 중인 프로그램</h2>
     <ul>
         <ul><a href = "https://github.com/KakaotechBootcamp1st-milo-memories" target="_blank">카카오테크 부트캠프 - 풀스택 과정 1기 (2024.07.01 ~ 2024.12.28)</a></ul>
-        <ul><a href = "https://www.contribution.ac/" target="_blank">2024 오픈소스 컨트리뷰션 아카데미 체험형 2차 멘티 (2024.09.09 ~ 2024.10.25)</a></ul>
+        <ul><a href = "https://www.contribution.ac/" target="_blank">2024 오픈소스 컨트리뷰션 아카데미 멘티 (2024.09.09 ~ 2024.10.25)</a></ul>
     </ul>
     <h2>진행 중인 프로젝트</h2>
     <ul>
