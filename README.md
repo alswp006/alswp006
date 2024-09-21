@@ -28,3 +28,4 @@
         <ul><a href="https://github.com/KakaoTech-Hackathon-Dream" target="_blank">생성형 AI 기반 가상 시나리오 생성 및 교육, 구직 프로그램 추천 프로젝트: 드림</a></ul>
     </ul>
 </div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alswp006)](https://velog.io/@alswp006/posts)
