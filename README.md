@@ -8,7 +8,7 @@
 	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&count_private=true"/>
 </div>
 
-## Baekjoon
+## 🏃Baekjoon
 <div>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswp006"/>
 </div>
