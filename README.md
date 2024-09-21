@@ -1,7 +1,5 @@
 <div>
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=10000&color=B3E2F7&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
-	<br>
-	
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=4000&color=9BE4F7&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 </div>
 
 <div>
