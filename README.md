@@ -11,6 +11,9 @@
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswp006"/>
 </div>
 
+## YouTube
+- 카카오테크 부트캠프 1기에서 CS 세션을 진행하고 있으며 영상을 업로드하는 유튜브 채널을 운영하고 있습니다!
+[![카카오테크 부트캠프 1기 세션 저장소](https://img.youtube.com/vi/VKuZ3TOZO8c/0.jpg)](https://www.youtube.com/@%EC%B9%B4%EB%B6%80%EC%BA%A01%EA%B8%B0%EB%B0%9C%ED%91%9C/videos)
 
 ## 💻 Blog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alswp006)](https://velog.io/@alswp006)
