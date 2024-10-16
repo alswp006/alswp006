@@ -11,13 +11,13 @@
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswp006"/>
 </div>
 
+## 💻 Blog
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alswp006)](https://velog.io/@alswp006)
+
 ## YouTube
 카카오테크 부트캠프에서 CS 세션을 진행하고 있으며 영상을 업로드하는 유튜브 채널을 관리하고 있습니다!
 
 [![카카오테크 부트캠프 1기 세션 저장소](https://img.youtube.com/vi/VKuZ3TOZO8c/0.jpg)](https://www.youtube.com/watch?v=ahTVEvYQAak&list=PLevEo_dIIovXd6D9DCV0Q9W_fU0QiScYk&index=3)
-
-## 💻 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alswp006)](https://velog.io/@alswp006)
 
 
 ## 🚀 Program
