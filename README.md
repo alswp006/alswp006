@@ -36,6 +36,16 @@
 | 드림 | 생성형 AI 기반 가상 시나리오 생성 및 교육, 구직 프로그램 추천 프로젝트 | 풀스택: 3, AI 파트: 3 | 백엔드 개발 및 클라우드 | [Organization](https://github.com/KakaoTech-Hackathon-Dream) |
 | SweeTODO | 그룹 일정 공유 모바일 앱 |프론트엔드: 1, 백엔드: 1| 백엔드 개발 및 배포 | [Repository](https://github.com/alswp006/SweeTODO-backend) |
 
+## GitAnimals
+
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/alswp006"
+  width="600"
+  height="300"
+/>
+</a>
+
 ## 🔧 Leaning Stack
 
 ### Language
