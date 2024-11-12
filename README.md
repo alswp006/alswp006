@@ -28,7 +28,7 @@
      <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-20-map-tsp/">
        <img width="1012" alt="image" src="https://github.com/user-attachments/assets/4966583c-c17e-4baa-bcf4-84d8e165fce7">
        <br/>
-       <strong>[알고리즘 최적화] TSP 알고리즘 시간 복잡도를 반의반의반의반의…</strong>
+       <strong>[알고리즘 최적화] TSP 알고리즘 시간 복잡도를 반의반의…</strong>
        <br/>
        <sub>2024.10.20</sub>
      </a>
@@ -37,7 +37,7 @@
      <a href="https://alswp006.github.io/project/tradeham/study/spring/2024-11-07-envelop-pattern/">
        <img width="1012" alt="image" src="https://github.com/user-attachments/assets/16ea8069-15d1-4caf-8cbe-2ef4f4baca01">
        <br/>
-       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern을 안 쓰...</strong>
+       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern을 안...</strong>
        <br/>
        <sub>2024.11.07</sub>
      </a>
@@ -46,7 +46,7 @@
      <a href="https://alswp006.github.io/project/tradeham/study/spring/2024-11-10-AOP-Envelop-Pattern/">
        <img width="1012" alt="image" src="https://github.com/user-attachments/assets/2c99495a-5382-4934-a955-e7d32f916b31">
        <br/>
-       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern만 사용하시...</strong>
+       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern만...</strong>
        <br/>
        <sub>2024.11.10</sub>
      </a>
