@@ -12,7 +12,47 @@
 </div>
 
 ## 💻 Blog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=alswp006)](https://velog.io/@alswp006)
+
+<table style="border: none; border-collapse: collapse;">
+ <tr style="border: none;">
+   <td width="25%" align="center" style="border: none; padding: 0 4px;">
+     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-15-map_optimize/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/3e85bc75-91fe-4eeb-a4c8-87b7f215fb69">
+       <br/>
+       <strong>[API 호출 최적화] API 호출을 420번에서 14번으로?</strong>
+       <br/>
+       <sub>2024.10.15</sub>
+     </a>
+   </td>
+   <td width="25%" align="center" style="border: none; padding: 0 4px;">
+     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-20-map-tsp/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/4966583c-c17e-4baa-bcf4-84d8e165fce7">
+       <br/>
+       <strong>[알고리즘 최적화] TSP 알고리즘 시간 복잡도를 반의반의반의반의…</strong>
+       <br/>
+       <sub>2024.10.20</sub>
+     </a>
+   </td>
+   <td width="25%" align="center" style="border: none; padding: 0 4px;">
+     <a href="https://alswp006.github.io/project/tradeham/study/spring/2024-11-07-envelop-pattern/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/16ea8069-15d1-4caf-8cbe-2ef4f4baca01">
+       <br/>
+       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern을 안 쓰...</strong>
+       <br/>
+       <sub>2024.11.07</sub>
+     </a>
+   </td>
+   <td width="25%" align="center" style="border: none; padding: 0 4px;">
+     <a href="https://alswp006.github.io/project/tradeham/study/spring/2024-11-10-AOP-Envelop-Pattern/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/2c99495a-5382-4934-a955-e7d32f916b31">
+       <br/>
+       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern만 사용하시...</strong>
+       <br/>
+       <sub>2024.11.10</sub>
+     </a>
+   </td>
+ </tr>
+</table>
 
 ## YouTube
 카카오테크 부트캠프에서 CS 세션을 진행하고 있으며 영상을 업로드하는 유튜브 채널을 관리하고 있습니다!
