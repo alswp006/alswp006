@@ -43,12 +43,12 @@
      </a>
    </td>
    <td width="25%" align="center" style="border: none; padding: 0 4px;">
-     <a href="https://alswp006.github.io/project/tradeham/study/spring/2024-11-10-AOP-Envelop-Pattern/">
-       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/2c99495a-5382-4934-a955-e7d32f916b31">
+     <a href="http://localhost:4000/blog/retrospect/2024-12-16-ktb-traffic-contest/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/0cc9904d-3f84-4c1b-b3f4-a52a8698a427" />
        <br/>
-       <strong>[API 공통 응답 포맷] 아직도 Envelope Pattern만...</strong>
+       <strong>부하테스트 대회 대상(카카오 대표이사 상) 수상, kakao x goorm</strong>
        <br/>
-       <sub>2024.11.10</sub>
+       <sub>2024.12.16</sub>
      </a>
    </td>
  </tr>
