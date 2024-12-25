@@ -46,7 +46,7 @@
      <a href="http://localhost:4000/blog/retrospect/2024-12-16-ktb-traffic-contest/">
        <img width="1012" alt="image" src="https://github.com/user-attachments/assets/0cc9904d-3f84-4c1b-b3f4-a52a8698a427" />
        <br/>
-       <strong>부하테스트 대회 대상(카카오 대표이사 상) 수상, kak...</strong>
+       <strong>부하테스트 대회 대상 수상, kakao x goorm</strong>
        <br/>
        <sub>2024.12.16</sub>
      </a>
