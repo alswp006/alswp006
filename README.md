@@ -69,15 +69,12 @@
 ## 📝 Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Gerrit 워크플로우: 오픈소스 코드 기여 가이드](https://alswp006.github.io/project/opensource/study/2025-11-09-Gerrit-Opensource-case/) - 2025.11.09
+- [(책 리뷰) 기술공화국 선언](https://alswp006.github.io/blog/book/2025-10-13-technological-republic/) - 2025.10.13
+- [(책 리뷰) 저소비생활](https://alswp006.github.io/blog/book/2025-10-09-low-consumption/) - 2025.10.09
+- [OSSCA 참여형: ORAN AI/ML Framework 오픈소스 기여 경험](https://alswp006.github.io/project/opensource/blog/retrospect/2025-11-09-OSSCA-ORAN/) - 2025.11.09
+- [(구름 Commit) 옆자리에 AI 동료가 생겼습니다](https://alswp006.github.io/blog/retrospect/2025-08-01-ai-friend/) - 2025.08.01
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 🏃 Baekjoon
-
-<div align="center">
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=alswp006"/>
-</div>
 
 ---
 
