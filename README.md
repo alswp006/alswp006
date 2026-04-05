@@ -72,7 +72,7 @@
  <tr>
    <td width="25%" align="center">
      <a href="https://alswp006.github.io/project/ai-factory/2026-03-29-ai-factory-10/">
-       <img width="1012" alt="AI Factory" src="https://github.com/user-attachments/assets/3e85bc75-91fe-4eeb-a4c8-87b7f215fb69">
+       <img width="1012" alt="AI Factory" src="https://github.com/user-attachments/assets/16ea8069-15d1-4caf-8cbe-2ef4f4baca01">
        <br/>
        <strong>🏭 AI Factory 시리즈 (10편)</strong>
        <br/>
@@ -122,8 +122,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=alswp006&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-	<br/>
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=alswp006&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
