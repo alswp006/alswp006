@@ -15,6 +15,14 @@
 
 ---
 
+## 💼 Career
+
+| 회사 | 기간 | 역할 |
+|------|------|------|
+| 금융결제원 | 2025.01 ~ 재직중 | 인프라 엔지니어 |
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -68,13 +76,46 @@
 
 ## 📝 Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Gerrit 워크플로우: 오픈소스 코드 기여 가이드](https://alswp006.github.io/project/opensource/study/2025-11-09-Gerrit-Opensource-case/) - 2025.11.09
-- [(책 리뷰) 기술공화국 선언](https://alswp006.github.io/blog/book/2025-10-13-technological-republic/) - 2025.10.13
-- [(책 리뷰) 저소비생활](https://alswp006.github.io/blog/book/2025-10-09-low-consumption/) - 2025.10.09
-- [OSSCA 참여형: ORAN AI/ML Framework 오픈소스 기여 경험](https://alswp006.github.io/project/opensource/blog/retrospect/2025-11-09-OSSCA-ORAN/) - 2025.11.09
-- [(구름 Commit) 옆자리에 AI 동료가 생겼습니다](https://alswp006.github.io/blog/retrospect/2025-08-01-ai-friend/) - 2025.08.01
-<!-- BLOG-POST-LIST:END -->
+<table>
+ <tr>
+   <td width="25%" align="center">
+     <a href="https://alswp006.github.io/project/ai-factory/2026-03-29-ai-factory-10/">
+       <img width="1012" alt="AI Factory" src="https://github.com/user-attachments/assets/16ea8069-15d1-4caf-8cbe-2ef4f4baca01">
+       <br/>
+       <strong>🏭 AI Factory 시리즈 (10편)</strong>
+       <br/>
+       <sub>2026.03</sub>
+     </a>
+   </td>
+   <td width="25%" align="center">
+     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-15-map_optimize/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/3e85bc75-91fe-4eeb-a4c8-87b7f215fb69">
+       <br/>
+       <strong>[API 최적화] 호출 420번→14번</strong>
+       <br/>
+       <sub>2024.10.15</sub>
+     </a>
+   </td>
+   <td width="25%" align="center">
+     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-20-map-tsp/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/4966583c-c17e-4baa-bcf4-84d8e165fce7">
+       <br/>
+       <strong>[알고리즘 최적화] TSP 시간복잡도 줄이기</strong>
+       <br/>
+       <sub>2024.10.20</sub>
+     </a>
+   </td>
+   <td width="25%" align="center">
+     <a href="https://alswp006.github.io/blog/retrospect/2024-12-16-ktb-traffic-contest/">
+       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/0cc9904d-3f84-4c1b-b3f4-a52a8698a427">
+       <br/>
+       <strong>부하테스트 대회 대상 수상</strong>
+       <br/>
+       <sub>2024.12.16</sub>
+     </a>
+   </td>
+ </tr>
+</table>
 
 ---
 
