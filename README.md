@@ -1,12 +1,12 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=4000&color=9BE4F7&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=4000&color=9BE4F7&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9D%B8%ED%94%84%EB%9D%BC+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
 
-**Java/Spring 기반 백엔드 개발자**이며, 최근에는 **TypeScript 풀스택 개발**도 함께 하고 있습니다.
+백엔드 개발자로 시작하여 현재는 **인프라 엔지니어**로 일하고 있습니다.
 
-최적화와 성능 개선에 관심이 많고, 오픈소스 기여 활동도 꾸준히 하고 있습니다.
+**AI 자동화**에 관심이 많으며, 오픈소스 기여 활동도 꾸준히 하고 있습니다.
 
 [![Blog](https://img.shields.io/badge/Blog-alswp006.github.io-9BE4F7?style=flat-square&logo=githubpages&logoColor=white)](https://alswp006.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-alswp006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alswp006@gmail.com)
