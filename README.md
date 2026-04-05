@@ -60,7 +60,7 @@
 | 프로그램 | 기간 | 과정 | 기록 |
 |----------|------|------|------|
 | AI Factory | 2026.03 ~ | Toss 미니앱 기반 AI 서비스 개발 | [Blog](https://alswp006.github.io/project/ai-factory/2026-03-29-ai-factory-10/) |
-| 2025 오픈소스 컨트리뷰션 아카데미 멘티 | 2025.09 ~ 2025.11 | ORAN 프로젝트 기여 | [회고](https://alswp006.github.io/project/opensource/blog/retrospect/2025-11-09-ossca-oran/) |
+| 2025 오픈소스 컨트리뷰션 아카데미 멘티 | 2025.09 ~ 2025.11 | ORAN 프로젝트 기여 | [회고](https://alswp006.github.io/project/opensource/blog/retrospect/2025-11-09-OSSCA-ORAN/) |
 | 2024 오픈소스 컨트리뷰션 아카데미 멘티 | 2024.09.09 ~ 2024.10.25 | Git 활용 및 표준프레임워크 MSA 학습 | [Organization](https://www.contribution.ac/) |
 | 카카오테크 부트캠프 1기 | 2024.07.01 ~ 2024.12.28 | 풀스택 과정 | [Organization](https://github.com/KakaotechBootcamp1st-milo-memories) |
 
