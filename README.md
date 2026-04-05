@@ -1,12 +1,12 @@
 <div align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=4000&color=9BE4F7&center=true&vCenter=true&width=500&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EC%9D%B8%ED%94%84%EB%9D%BC+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=4000&color=9BE4F7&center=true&vCenter=true&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!+%EA%B9%80%EB%AF%BC%EC%A0%9C%EC%9E%85%EB%8B%88%EB%8B%A4!" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
 
-백엔드 개발자로 시작하여 현재는 **인프라 엔지니어**로 일하고 있습니다.
+**개발, 인프라, AI 자동화**를 넘나들며 일하고 있습니다.
 
-**AI 자동화**에 관심이 많으며, 오픈소스 기여 활동도 꾸준히 하고 있습니다.
+오픈소스 기여 활동도 꾸준히 하고 있습니다.
 
 [![Blog](https://img.shields.io/badge/Blog-alswp006.github.io-9BE4F7?style=flat-square&logo=githubpages&logoColor=white)](https://alswp006.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-alswp006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alswp006@gmail.com)
@@ -68,46 +68,8 @@
 
 ## 📝 Blog
 
-<table>
- <tr>
-   <td width="25%" align="center">
-     <a href="https://alswp006.github.io/project/ai-factory/2026-03-29-ai-factory-10/">
-       <img width="1012" alt="AI Factory" src="https://github.com/user-attachments/assets/16ea8069-15d1-4caf-8cbe-2ef4f4baca01">
-       <br/>
-       <strong>🏭 AI Factory 시리즈 (10편)</strong>
-       <br/>
-       <sub>2026.03</sub>
-     </a>
-   </td>
-   <td width="25%" align="center">
-     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-15-map_optimize/">
-       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/3e85bc75-91fe-4eeb-a4c8-87b7f215fb69">
-       <br/>
-       <strong>[API 최적화] 호출 420번→14번</strong>
-       <br/>
-       <sub>2024.10.15</sub>
-     </a>
-   </td>
-   <td width="25%" align="center">
-     <a href="https://alswp006.github.io/project/bami/java/spring/study/2024-10-20-map-tsp/">
-       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/4966583c-c17e-4baa-bcf4-84d8e165fce7">
-       <br/>
-       <strong>[알고리즘 최적화] TSP 시간복잡도 줄이기</strong>
-       <br/>
-       <sub>2024.10.20</sub>
-     </a>
-   </td>
-   <td width="25%" align="center">
-     <a href="https://alswp006.github.io/blog/retrospect/2024-12-16-ktb-traffic-contest/">
-       <img width="1012" alt="image" src="https://github.com/user-attachments/assets/0cc9904d-3f84-4c1b-b3f4-a52a8698a427">
-       <br/>
-       <strong>부하테스트 대회 대상 수상</strong>
-       <br/>
-       <sub>2024.12.16</sub>
-     </a>
-   </td>
- </tr>
-</table>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
