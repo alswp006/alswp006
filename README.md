@@ -4,9 +4,6 @@
 
 <div align="center">
 
-**개발, 인프라, AI 자동화**를 넘나들며 일하고 있습니다.
-
-오픈소스 기여 활동도 꾸준히 하고 있습니다.
 
 [![Blog](https://img.shields.io/badge/Blog-alswp006.github.io-9BE4F7?style=flat-square&logo=githubpages&logoColor=white)](https://alswp006.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-alswp006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:alswp006@gmail.com)
